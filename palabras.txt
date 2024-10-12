@@ -1,0 +1,15 @@
+ababa,3
+abaca,5
+abaco,0
+abada,3
+abadi,4
+abajo,1
+abano,8
+abasi,9
+abate,3
+abati,2
+abece,4
+abeja,0
+abete,7
+esoti,4
+abcde,7
